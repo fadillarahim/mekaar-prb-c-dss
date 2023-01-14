@@ -1,0 +1,55 @@
+.logo-mekar{
+    width: 100px;
+    height: 100px;
+}
+
+.mekar-desc{
+    text-align: justify;
+}
+
+.tanggung-jawab-desc{
+    text-align: justify;
+}
+
+.mekar-prbc-img{
+    
+}
+
+/* .services i {
+    font-size: 30px;
+    color: #3498db;
+  } */
+
+  .services ul {
+    list-style: none;
+    
+    font-size: 15px;
+    padding: 10px;
+  }
+
+  .services ul li {
+    position: relative;
+    padding-left: 26px;
+    margin: 10px;
+  }
+
+  .services ul i {
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-size: 22px;
+    color: #3498db;
+  }
+
+  .kriteria-umum-box{
+    border: none;
+    box-shadow: #3498db;
+  }
+
+  .kriteria-umum-box ul li{
+    font-size: 12pt;
+  }
+
+  .graphic-criteria{
+    width: 90%
+  }
