@@ -1430,3 +1430,9 @@ section {
   color: #fff;
   text-decoration: none;
 }
+
+
+/* tambahan footer */
+footer{
+  border-top: 1px solid #777777;
+}
